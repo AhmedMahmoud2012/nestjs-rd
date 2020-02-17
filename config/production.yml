@@ -1,0 +1,5 @@
+db:
+  synchronize:false
+
+jwt:
+  expiresIn:3600
